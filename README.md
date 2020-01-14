@@ -1,6 +1,6 @@
 # video_player_web
 
-A new Flutter plugin.
+视频播放器web版，在原版的基础上增加浮动控制器
 
 ## Getting Started
 
